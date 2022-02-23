@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OnlineHelp on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/onlinehelp/</link>
+    <description>Recent content in OnlineHelp on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/onlinehelp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Samples v20211225</title>
+      <link>https://susanpeng.github.io/post/writingsamples_v20211225/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/writingsamples_v20211225/</guid>
+      <description>This document includes two projects:
+  Aegisub Quick Start (https://aegisubquickstart.wordpress.com/)
+As an excellent subtitle-adding software, Aegisub has been used intensively in my company&amp;rsquo;s video production team. However, its official tutorial is highly text-intensive with little graphics, so I wrote this Quick Start manual to help beginners start quickly and save time and effort during training. This Quick Start manual has significantly reduced the time and human power when training new team members and also dramatically reduced the learning curve for learners.</description>
+    </item>
+    
+  </channel>
+</rss>

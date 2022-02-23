@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Writing Sample: Build a Static Site with Hugo on GitHub</title>
+      <link>https://susanpeng.github.io/post/ws_hugo_github/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_hugo_github/</guid>
+      <description>A Writing Sample: Build a Static Site with Hugo on GitHub
+(https://susanpeng.github.io/post/hugo-how-to/)
+I wrote this how-to to record the steps I used to create a static website using Hugo and got it running on GitHub.
+To set up the static site, I watched several YouTube videos and checked several articles on Google.
+These steps are proven correct so that I can follow them for my following static website setup. That would save me a lot of time searching for information or reading the Hugo manual from the beginning.</description>
+    </item>
+    
+    <item>
+      <title>Build a Static Site with Hugo on GitHub</title>
+      <link>https://susanpeng.github.io/post/hugo-how-to/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/hugo-how-to/</guid>
+      <description>I set up my first Hugo-generated website on GitHub through the following steps. I wrote this file to help whose familiar with GitHub and command line and want to build their static website using Hugo by following simple command lines without detailed explanations.
+I&amp;rsquo;m using a Mac mini m1.
+Instll Hugo
+If you have Homebrew installed on your Mac, just run:
+1  brew install hugo   The Hugo will be installed on the Mac.</description>
+    </item>
+    
+  </channel>
+</rss>

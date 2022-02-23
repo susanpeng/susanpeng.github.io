@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/github/</link>
+    <description>Recent content in GitHub on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Writing Sample: Build a Static Site with Hugo on GitHub</title>
+      <link>https://susanpeng.github.io/post/ws_hugo_github/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_hugo_github/</guid>
+      <description>A Writing Sample: Build a Static Site with Hugo on GitHub
+(https://susanpeng.github.io/post/hugo-how-to/)
+I wrote this how-to to record the steps I used to create a static website using Hugo and got it running on GitHub.
+To set up the static site, I watched several YouTube videos and checked several articles on Google.
+These steps are proven correct so that I can follow them for my following static website setup. That would save me a lot of time searching for information or reading the Hugo manual from the beginning.</description>
+    </item>
+    
+    <item>
+      <title>Experience with Git and Docs-as-code</title>
+      <link>https://susanpeng.github.io/post/experience_with_git/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/experience_with_git/</guid>
+      <description>Git I’ve about three years of experience using Git and its command line. With ten+ years of experience using Unix and Linux shell scripts, I don’t have any problem using Git and its command-line. In contrast, they allow me to work more efficiently. I use Git to store my projects, host my websites, and collaborate with others.
+Docs as code Docs as Code refers to the concept that technical writers write docs with the same tool-chain as developers, using issue trackers, version control, plain text markup, code review, and automated tests, integrating the documentation process with the development workflow.</description>
+    </item>
+    
+    <item>
+      <title>Get Started with GitHub</title>
+      <link>https://susanpeng.github.io/post/git-how-to/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/git-how-to/</guid>
+      <description>Install git on the local computer
+Check if git has already been installed on my Mac:
+1 2  git --version git version 2.30.1 (Apple Git-130)   I got &amp;ldquo;git version 2.30.1 (Apple Git-130)&amp;quot;; that means I have already got git installed on my Mac.
+If you can see the version information, you need to download and install git on your computer.
+Create a free GitHub account
+Go to GitHub website and sign up to get a free GitHub account.</description>
+    </item>
+    
+  </channel>
+</rss>

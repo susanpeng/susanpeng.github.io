@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/interview/</link>
+    <description>Recent content in Interview on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Describe Your Participation in a Documentation Effort</title>
+      <link>https://susanpeng.github.io/post/participate_in_a_doc_effort/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/participate_in_a_doc_effort/</guid>
+      <description>The App: The development team developed a mobile App for worldwide practitioners to practice meditation. The practitioners can:
+ register for upcoming meditation courses; record their everyday meditation practice; write journals to reflect on their practicing results; watch online videos from previous classes; download massive meditation instructional videos and music; offer lights for their loved ones;  and more.
+What I Did: I participated in the documentation project of this mobile App.</description>
+    </item>
+    
+    <item>
+      <title>As a Software User, How Do You Define Great Documentation?</title>
+      <link>https://susanpeng.github.io/post/great_documentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/great_documentation/</guid>
+      <description>Great documentation should include contextual content that clarifies why and when users might use a feature or workflow. It should tell the software version, the working or installation environment (Windows, Mac, Linux, the version of the operating system), etc. It should keep the readers on the same page at the very beginning.
+Great documentation should be clear and concise and divide information into conceptional, instruction, and reference parts. For the instructional documentation, it is important to organize the content task-centered, following the work procedure.</description>
+    </item>
+    
+    <item>
+      <title>Experience with Git and Docs-as-code</title>
+      <link>https://susanpeng.github.io/post/experience_with_git/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/experience_with_git/</guid>
+      <description>Git I’ve about three years of experience using Git and its command line. With ten+ years of experience using Unix and Linux shell scripts, I don’t have any problem using Git and its command-line. In contrast, they allow me to work more efficiently. I use Git to store my projects, host my websites, and collaborate with others.
+Docs as code Docs as Code refers to the concept that technical writers write docs with the same tool-chain as developers, using issue trackers, version control, plain text markup, code review, and automated tests, integrating the documentation process with the development workflow.</description>
+    </item>
+    
+  </channel>
+</rss>

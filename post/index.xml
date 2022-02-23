@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/post/</link>
+    <description>Recent content in Posts on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complete a Project</title>
+      <link>https://susanpeng.github.io/post/complete_a_project/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/complete_a_project/</guid>
+      <description>“Yes! I did it.” You&amp;rsquo;ve completed your ice breaker and got the written evaluation from your evaluator besides the oral evaluation at the meeting.
+But when you log into your Toastmasters International account and go to your Pathway curriculum, you can’t see the checkmark on the right top corner of your project. It doesn’t show the completion of the project. What should you do? Ask your evaluator or your VP of Education?</description>
+    </item>
+    
+    <item>
+      <title>How Did I Become a Techncial Writer</title>
+      <link>https://susanpeng.github.io/post/become_writer/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/become_writer/</guid>
+      <description>I&amp;rsquo;m currently working as a technical writer, but I worked as a system analyst and developer for more than ten years before starting my technical writing career.
+Do you want to know why and how a system analyst became a technical writer?
+Here is how.
+I got my first job as a system analyst and developer two months after landing in Toronto, Canada. I moved to Vancouver ten years later because it was too cold in Toronto, and Vancouver is much warmer.</description>
+    </item>
+    
+    <item>
+      <title>Install VLC Media Player</title>
+      <link>https://susanpeng.github.io/post/vlc_install/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/vlc_install/</guid>
+      <description>VLC Media Player is an application that lets you easily play music, watch videos, and browse photos on your computer. These instructions will show you how to download it from the www.cnet.com website and install it on your Mac.
+Find VLC Media Player
+  Open the browser you prefer to use.
+  Type www.cnet.com in the address bar to open the website.
+  On the menu bar, hover your mouse over Download.</description>
+    </item>
+    
+    <item>
+      <title>Single-source Publishing</title>
+      <link>https://susanpeng.github.io/post/singlesource_sum/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/singlesource_sum/</guid>
+      <description>Nowadays, there are many different kinds of media formats such as a PDF file for reading on a computer, an HTML searchable file for reading online, and an InDesign file for paper printout publishing. In a traditional document management system, source files usually are authored in different formats for different publishing media. When a product is updated, the documentation that describes the product needs to be modified or even rewritten. A content maintenance team needs to apply changes on the same content to various versions of source files.</description>
+    </item>
+    
+    <item>
+      <title>Video Samples</title>
+      <link>https://susanpeng.github.io/post/video_samples/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/video_samples/</guid>
+      <description>Getting Data From Amazon and Writing Them Into an Excel File (https://youtu.be/dOFGlra9-Lo)
+Biljit&amp;rsquo;s Meditation Journal (https://youtu.be/Uru-vKoRt4A)
+Kathyn&amp;rsquo;s Meditation Journal (https://youtu.be/kEgsS2QtdxY)
+Ken&amp;rsquo;s Meditation Journal (https://youtu.be/r7E6k43JYZY)</description>
+    </item>
+    
+    <item>
+      <title>Deploy Node.js to Heroku</title>
+      <link>https://susanpeng.github.io/post/heroku-how-to/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/heroku-how-to/</guid>
+      <description>I used the folder &amp;ldquo;Desktop/restful&amp;rdquo; as my REST API folder.
+First, create a free Heroku account.
+Then, create a new app &amp;ldquo;morning67890&amp;rdquo; on Heroku.
+Download the Heroku Command Line Interface(CLI)
+1  $ brew install heroku/brew/heroku   I copyed all files of my RESTAPI from my old RESTAPI folder to the folder &amp;ldquo;Desktop/restful&amp;rdquo;.
+Under &amp;ldquo;Desktop/restful&amp;rdquo; folder:
+1  $ heroku login   Check node version:
+1  $ node --version   The noder version shoulde be higher than 10.</description>
+    </item>
+    
+    <item>
+      <title>Mac_Commands_Shortcuts</title>
+      <link>https://susanpeng.github.io/post/mac_commands_shortcuts/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/mac_commands_shortcuts/</guid>
+      <description>Shortcut Function     ctl+k Clear the terminal window   ctl+t Open a new tab in the current window    Commands
+Find the PID of a process listening on a port (pass the -i flag and the port number to significantly speed up the searching):
+1 2 3  $ lsof -Pi :3000 COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME node 10832 yulin 27u IPv4 0xc9491b9285959cf 0t0 TCP *:3000 (LISTEN)   Kill this process:</description>
+    </item>
+    
+    <item>
+      <title>A Writing Sample: Build a Static Site with Hugo on GitHub</title>
+      <link>https://susanpeng.github.io/post/ws_hugo_github/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_hugo_github/</guid>
+      <description>A Writing Sample: Build a Static Site with Hugo on GitHub
+(https://susanpeng.github.io/post/hugo-how-to/)
+I wrote this how-to to record the steps I used to create a static website using Hugo and got it running on GitHub.
+To set up the static site, I watched several YouTube videos and checked several articles on Google.
+These steps are proven correct so that I can follow them for my following static website setup. That would save me a lot of time searching for information or reading the Hugo manual from the beginning.</description>
+    </item>
+    
+    <item>
+      <title>BC and AD, or BCE and CE?</title>
+      <link>https://susanpeng.github.io/post/bc_ad/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/bc_ad/</guid>
+      <description>When writing about historical figures or events, we often need to use BC and AD, or BCE and CE. How can you use them correctly?
+Firstly, both systems count years from the birth of Jesus Christ, following the Gregorian calendar. AD and CE mean before the birth date of Jesus, and BC and BCE mean after the birth date of Jesus.
+BC and AD were used earlier in the year 525 by a Christian monk.</description>
+    </item>
+    
+    <item>
+      <title>Writing Samples v20220131</title>
+      <link>https://susanpeng.github.io/post/writingsamples_v20220131/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/writingsamples_v20220131/</guid>
+      <description>Build a Static Website with Hugo on GitHub (https://susanpeng.github.io/post/ws_hugo_github/)
+Aegisub (https://susanpeng.github.io/post/ws_aegisub_explanation)
+User&amp;rsquo;s Manual (https://susanpeng.github.io/post/ws_usersmanual_explanation)</description>
+    </item>
+    
+    <item>
+      <title>A Writing Sample: Installation Instructions</title>
+      <link>https://susanpeng.github.io/post/ws_web_service_install/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_web_service_install/</guid>
+      <description>Installation Instructions for a Web Service Application
+(https://susanpeng.github.io/docs/pdf/ws_installation.pdf)</description>
+    </item>
+    
+    <item>
+      <title>Describe Your Participation in a Documentation Effort</title>
+      <link>https://susanpeng.github.io/post/participate_in_a_doc_effort/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/participate_in_a_doc_effort/</guid>
+      <description>The App: The development team developed a mobile App for worldwide practitioners to practice meditation. The practitioners can:
+ register for upcoming meditation courses; record their everyday meditation practice; write journals to reflect on their practicing results; watch online videos from previous classes; download massive meditation instructional videos and music; offer lights for their loved ones;  and more.
+What I Did: I participated in the documentation project of this mobile App.</description>
+    </item>
+    
+    <item>
+      <title>The 29 Steps of a Documentation Project</title>
+      <link>https://susanpeng.github.io/post/29_steps_doc_prj/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/29_steps_doc_prj/</guid>
+      <description>Here is a traditionally recommended general sequence of the 29 steps for a documentation project:
+ Discuss the need for the document with your client. Determine the purpose and objectives of the document. Talk to intended users of the documents. Profile the users’ information needs. Prepare an outline of the planned contents of the documents Design the layout of the document. Plan the online version of the document. Prepare style guidelines or a style sheet.</description>
+    </item>
+    
+    <item>
+      <title>A Writing Sample: A RESTful API Document</title>
+      <link>https://susanpeng.github.io/post/ws_restfulapi_explanation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_restfulapi_explanation/</guid>
+      <description>A RESTful API documentat (https://morning90.herokuapp.com/)
+I just moved this documention to a new site, so I will need to change some parameters in the documentation.</description>
+    </item>
+    
+    <item>
+      <title>A Writing Sample: Aegisub Quick Start</title>
+      <link>https://susanpeng.github.io/post/ws_aegisub_explanation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_aegisub_explanation/</guid>
+      <description>Aegisub Quick Start (https://aegisubquickstart.wordpress.com/)
+As an excellent subtitle-adding software, Aegisub has been used intensively in my company&amp;rsquo;s video production team. However, its official tutorial is highly text-intensive with little graphics, so training new team members took lots of time and effort.
+My task was to create a Quick Start manual to help beginners start quickly and save time and effort for training.
+I started by reading the original online manual; it was difficult to understand (perhaps they didn&amp;rsquo;t have a sufficient budget for documentation).</description>
+    </item>
+    
+    <item>
+      <title>As a Software User, How Do You Define Great Documentation?</title>
+      <link>https://susanpeng.github.io/post/great_documentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/great_documentation/</guid>
+      <description>Great documentation should include contextual content that clarifies why and when users might use a feature or workflow. It should tell the software version, the working or installation environment (Windows, Mac, Linux, the version of the operating system), etc. It should keep the readers on the same page at the very beginning.
+Great documentation should be clear and concise and divide information into conceptional, instruction, and reference parts. For the instructional documentation, it is important to organize the content task-centered, following the work procedure.</description>
+    </item>
+    
+    <item>
+      <title>Experience with Git and Docs-as-code</title>
+      <link>https://susanpeng.github.io/post/experience_with_git/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/experience_with_git/</guid>
+      <description>Git I’ve about three years of experience using Git and its command line. With ten+ years of experience using Unix and Linux shell scripts, I don’t have any problem using Git and its command-line. In contrast, they allow me to work more efficiently. I use Git to store my projects, host my websites, and collaborate with others.
+Docs as code Docs as Code refers to the concept that technical writers write docs with the same tool-chain as developers, using issue trackers, version control, plain text markup, code review, and automated tests, integrating the documentation process with the development workflow.</description>
+    </item>
+    
+    <item>
+      <title>Writing Samples: User&#39;s Manual and Usability Testing Report</title>
+      <link>https://susanpeng.github.io/post/ws_usersmanual_explanation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_usersmanual_explanation/</guid>
+      <description>Bookshelf Editor User&amp;rsquo;s Manual (https://susanpeng.github.io/docs/helpmanual/index.html)
+Usability Testing Report (https://susanpeng.github.io/docs/helpmanualusa/index.html)
+I created this User&amp;rsquo;s Mnual as my technical writing course project. I received the Bookshelf Editor program without any documentation. I had to go through the whole program to figure out all functions and operational steps by clicking menu items, buttons and links on the screen. After obtaining a sufficient understanding of the program, I created this User&amp;rsquo;s Manual. It was a great process of learning technical concepts and skills and then converting them into clear and concise content for a general audience.</description>
+    </item>
+    
+    <item>
+      <title>Build a Static Site with Hugo on GitHub</title>
+      <link>https://susanpeng.github.io/post/hugo-how-to/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/hugo-how-to/</guid>
+      <description>I set up my first Hugo-generated website on GitHub through the following steps. I wrote this file to help whose familiar with GitHub and command line and want to build their static website using Hugo by following simple command lines without detailed explanations.
+I&amp;rsquo;m using a Mac mini m1.
+Instll Hugo
+If you have Homebrew installed on your Mac, just run:
+1  brew install hugo   The Hugo will be installed on the Mac.</description>
+    </item>
+    
+    <item>
+      <title>Get Started with GitHub</title>
+      <link>https://susanpeng.github.io/post/git-how-to/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/git-how-to/</guid>
+      <description>Install git on the local computer
+Check if git has already been installed on my Mac:
+1 2  git --version git version 2.30.1 (Apple Git-130)   I got &amp;ldquo;git version 2.30.1 (Apple Git-130)&amp;quot;; that means I have already got git installed on my Mac.
+If you can see the version information, you need to download and install git on your computer.
+Create a free GitHub account
+Go to GitHub website and sign up to get a free GitHub account.</description>
+    </item>
+    
+    <item>
+      <title>Why Static Website Generator</title>
+      <link>https://susanpeng.github.io/post/whystaticwebsitegenerator/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/whystaticwebsitegenerator/</guid>
+      <description>Sometimes we need a website to host only static web pages; that means the content of the webpage keeps unchanged.
+Under this situation, we don&amp;rsquo;t need a heavy server that gets content from the backend database server and renders the webpage to send back to the browser, which is expensive and complex.
+At the same time, we would like to get the website to work fast at minimalistic decoration. We also want the site to work at a low cost and minimal coding time.</description>
+    </item>
+    
+    <item>
+      <title>Writing Samples v20211225</title>
+      <link>https://susanpeng.github.io/post/writingsamples_v20211225/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/writingsamples_v20211225/</guid>
+      <description>This document includes two projects:
+  Aegisub Quick Start (https://aegisubquickstart.wordpress.com/)
+As an excellent subtitle-adding software, Aegisub has been used intensively in my company&amp;rsquo;s video production team. However, its official tutorial is highly text-intensive with little graphics, so I wrote this Quick Start manual to help beginners start quickly and save time and effort during training. This Quick Start manual has significantly reduced the time and human power when training new team members and also dramatically reduced the learning curve for learners.</description>
+    </item>
+    
+  </channel>
+</rss>

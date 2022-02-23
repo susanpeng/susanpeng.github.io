@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samples on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/samples/</link>
+    <description>Recent content in Samples on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/samples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Samples v20220131</title>
+      <link>https://susanpeng.github.io/post/writingsamples_v20220131/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/writingsamples_v20220131/</guid>
+      <description>Build a Static Website with Hugo on GitHub (https://susanpeng.github.io/post/ws_hugo_github/)
+Aegisub (https://susanpeng.github.io/post/ws_aegisub_explanation)
+User&amp;rsquo;s Manual (https://susanpeng.github.io/post/ws_usersmanual_explanation)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aegisub on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/aegisub/</link>
+    <description>Recent content in Aegisub on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/aegisub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Writing Sample: Aegisub Quick Start</title>
+      <link>https://susanpeng.github.io/post/ws_aegisub_explanation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_aegisub_explanation/</guid>
+      <description>Aegisub Quick Start (https://aegisubquickstart.wordpress.com/)
+As an excellent subtitle-adding software, Aegisub has been used intensively in my company&amp;rsquo;s video production team. However, its official tutorial is highly text-intensive with little graphics, so training new team members took lots of time and effort.
+My task was to create a Quick Start manual to help beginners start quickly and save time and effort for training.
+I started by reading the original online manual; it was difficult to understand (perhaps they didn&amp;rsquo;t have a sufficient budget for documentation).</description>
+    </item>
+    
+  </channel>
+</rss>

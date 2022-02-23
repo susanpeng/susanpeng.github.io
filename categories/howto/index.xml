@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Even - A super concise theme for Hugoaaa</title>
+    <link>http://susanpeng.github.io/categories/howto/</link>
+    <description>Recent content in Howto on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate><atom:link href="http://susanpeng.github.io/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Started with GitHub</title>
+      <link>http://susanpeng.github.io/post/git-how-to/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>http://susanpeng.github.io/post/git-how-to/</guid>
+      <description>hiddenFromHomePage: true
+this line can be added to the front matter to hide the md file to be displaied on the website. &amp;ndash;&amp;gt; Skip to content Search or jump to… Pull requests Issues Marketplace Explore
+@susanpeng susanpeng / susanpeng.github.io Public Code Issues Pull requests Actions Projects Wiki Security Insights Settings susanpeng.github.io/writings/documents/howtousegithub.md
+susanpeng make change on hot to usegithub.md Latest commit a893a1f 7 days ago History 1 contributor 77 lines (64 sloc) 4.</description>
+    </item>
+    
+  </channel>
+</rss>

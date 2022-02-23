@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文 on Even - A super concise theme for Hugoaaa</title>
+    <link>http://susanpeng.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 01:37:56 +0800</lastBuildDate><atom:link href="http://susanpeng.github.io/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Samples</title>
+      <link>http://susanpeng.github.io/post/writingsamples/</link>
+      <pubDate>Sun, 23 Jan 2022 01:37:56 +0800</pubDate>
+      
+      <guid>http://susanpeng.github.io/post/writingsamples/</guid>
+      <description>This document includes two projects: 1.Aegisub Quick Start (https://aegisubquickstart.wordpress.com/) As an excellent subtitle-adding software, Aegisub has been used intensively in my company&amp;rsquo;s video production team. However, its official tutorial is highly text-intensive with little graphics, so I wrote this Quick Start manual to help beginners start quickly and save time and effort during training. This Quick Start manual has significantly reduced the time and human power when training new team</description>
+    </item>
+    
+    <item>
+      <title>Hugo How To</title>
+      <link>http://susanpeng.github.io/post/hugo-howto/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>http://susanpeng.github.io/post/hugo-howto/</guid>
+      <description>this is the video I use to do it successfully finally https://youtu.be/LIFvgrRxdt4 use hugo to generate a static website mac install hugo create folder pick and download theme change config file write your ocntent hugo new post/my-first-post.md : create a new .md file in the post folder hugo -t theme-name - generate static files git remote -v: note!! &amp;ldquo;you have to already created susanpeng.github.io repo, and push to main at</description>
+    </item>
+    
+    <item>
+      <title>Mac Terminal Shortcut</title>
+      <link>http://susanpeng.github.io/post/mac-terminal-shortcut/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>http://susanpeng.github.io/post/mac-terminal-shortcut/</guid>
+      <description>ctl+k clear the terminal window ctl+t new tab</description>
+    </item>
+    
+    <item>
+      <title>Why static website generator</title>
+      <link>http://susanpeng.github.io/post/why-i-need-to/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>http://susanpeng.github.io/post/why-i-need-to/</guid>
+      <description>Why I need to requirements not a synamic website minimalistic &amp;amp; fast look good inexpensive less coding static site generator hugo command : 20220124 hugo new site mysite : create a new site locally cd mysite: get into the site folder hugo server: start a development server on this computer on 1313 port &amp;ndash; getting a theme ctl+c stop the hugo server goto hugo site to pick a theme</description>
+    </item>
+    
+  </channel>
+</rss>

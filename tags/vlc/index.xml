@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vlc on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/vlc/</link>
+    <description>Recent content in vlc on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/vlc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install VLC Media Player</title>
+      <link>https://susanpeng.github.io/post/vlc_install/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/vlc_install/</guid>
+      <description>VLC Media Player is an application that lets you easily play music, watch videos, and browse photos on your computer. These instructions will show you how to download it from the www.cnet.com website and install it on your Mac.
+Find VLC Media Player
+  Open the browser you prefer to use.
+  Type www.cnet.com in the address bar to open the website.
+  On the menu bar, hover your mouse over Download.</description>
+    </item>
+    
+  </channel>
+</rss>

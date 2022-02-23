@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/installation/</link>
+    <description>Recent content in Installation on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Writing Sample: Installation Instructions</title>
+      <link>https://susanpeng.github.io/post/ws_web_service_install/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_web_service_install/</guid>
+      <description>Installation Instructions for a Web Service Application
+(https://susanpeng.github.io/docs/pdf/ws_installation.pdf)</description>
+    </item>
+    
+  </channel>
+</rss>

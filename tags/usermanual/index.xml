@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UserManual on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/usermanual/</link>
+    <description>Recent content in UserManual on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jan 2022 01:37:56 +0800</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/usermanual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Samples: User&#39;s Manual and Usability Testing Report</title>
+      <link>https://susanpeng.github.io/post/ws_usersmanual_explanation/</link>
+      <pubDate>Thu, 27 Jan 2022 01:37:56 +0800</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/ws_usersmanual_explanation/</guid>
+      <description>Bookshelf Editor User&amp;rsquo;s Manual (https://susanpeng.github.io/techwriter/writings/helpmanual/index.html)
+Usability Testing Report (https://susanpeng.github.io/techwriter/writings/helpmanualusa/index.html)
+I created this User&amp;rsquo;s Manual as a project in one of my Technical Writing courses. I received the Bookshelf Editor program without any documentation. I had to go through the whole program to figure out all functions and operational steps by clicking menu items, buttons and links on screen in the program. After obtaining a sufficient understanding of the program, I created this User&amp;rsquo;s Manual.</description>
+    </item>
+    
+  </channel>
+</rss>

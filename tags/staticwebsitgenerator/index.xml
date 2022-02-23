@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StaticWebsitGenerator on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/staticwebsitgenerator/</link>
+    <description>Recent content in StaticWebsitGenerator on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/staticwebsitgenerator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Static Website Generator</title>
+      <link>https://susanpeng.github.io/post/whystaticwebsitegenerator/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/whystaticwebsitegenerator/</guid>
+      <description>Sometimes we need a website to host only static web pages; that means the content of the webpage keeps unchanged.
+Under this situation, we don&amp;rsquo;t need a heavy server that gets content from the backend database server and renders the webpage to send back to the browser, which is expensive and complex.
+At the same time, we would like to get the website to work fast at minimalistic decoration. We also want the site to work at a low cost and minimal coding time.</description>
+    </item>
+    
+  </channel>
+</rss>

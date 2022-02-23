@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GreatDocumentation on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/greatdocumentation/</link>
+    <description>Recent content in GreatDocumentation on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/greatdocumentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>As a Software User, How Do You Define Great Documentation?</title>
+      <link>https://susanpeng.github.io/post/great_documentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/great_documentation/</guid>
+      <description>Great documentation should include contextual content that clarifies why and when users might use a feature or workflow. It should tell the software version, the working or installation environment (Windows, Mac, Linux, the version of the operating system), etc. It should keep the readers on the same page at the very beginning.
+Great documentation should be clear and concise and divide information into conceptional, instruction, and reference parts. For the instructional documentation, it is important to organize the content task-centered, following the work procedure.</description>
+    </item>
+    
+  </channel>
+</rss>

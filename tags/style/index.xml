@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Style on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/style/</link>
+    <description>Recent content in Style on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/style/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video Samples</title>
+      <link>https://susanpeng.github.io/post/video_samples/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/video_samples/</guid>
+      <description>Getting Data From Amazon and Writing Them Into an Excel File (https://youtu.be/dOFGlra9-Lo)
+Biljit&amp;rsquo;s Meditation Journal (https://youtu.be/Uru-vKoRt4A)
+Kathyn&amp;rsquo;s Meditation Journal (https://youtu.be/kEgsS2QtdxY)
+Ken&amp;rsquo;s Meditation Journal (https://youtu.be/r7E6k43JYZY)</description>
+    </item>
+    
+    <item>
+      <title>BC and AD, or BCE and CE?</title>
+      <link>https://susanpeng.github.io/post/bc_ad/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/bc_ad/</guid>
+      <description>When writing about historical figures or events, we often need to use BC and AD, or BCE and CE. How can you use them correctly?
+Firstly, both systems count years from the birth of Jesus Christ, following the Gregorian calendar. AD and CE mean before the birth date of Jesus, and BC and BCE mean after the birth date of Jesus.
+BC and AD were used earlier in the year 525 by a Christian monk.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/tags/mac/</link>
+    <description>Recent content in Mac on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac_Commands_Shortcuts</title>
+      <link>https://susanpeng.github.io/post/mac_commands_shortcuts/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/mac_commands_shortcuts/</guid>
+      <description>Shortcut Function     ctl+k Clear the terminal window   ctl+t Open a new tab in the current window    Commands
+Find the PID of a process listening on a port (pass the -i flag and the port number to significantly speed up the searching):
+1 2 3  $ lsof -Pi :3000 COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME node 10832 yulin 27u IPv4 0xc9491b9285959cf 0t0 TCP *:3000 (LISTEN)   Kill this process:</description>
+    </item>
+    
+  </channel>
+</rss>
