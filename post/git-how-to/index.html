@@ -64,7 +64,7 @@ If you can see the version information, you need to download and install git on 
 Create a free GitHub account
 Go to GitHub website and sign up to get a free GitHub account."><meta itemprop="datePublished" content="2022-01-25T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2022-01-25T00:00:00+00:00" />
-<meta itemprop="wordCount" content="799">
+<meta itemprop="wordCount" content="824">
 <meta itemprop="keywords" content="Howto,GitHub," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Get Started with GitHub"/>
 <meta name="twitter:description" content="Install git on the local computer
@@ -330,13 +330,23 @@ git push
 <p>To establish the connection between the GitHub repository and the local version of the same repository, you need to do one of the following two things according to your situation:</p>
 <ul>
 <li>
-<p>If you have all content on your local computer, you need to create a repository on GitHub and get its link; then execute the following command:</p>
+<p>If you have all content on your local computer, you need to create a repository on GitHub and get its link; then execute the following command in your project folder:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell">git remote add origin https://github.com/yourusername/yourusername.github.io.git 
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="nb">cd</span> project-folder
+git init
+git add .
+git commit -m <span class="s2">&#34;first commit&#34;</span>
+git branch -M main
+git remote add origin https://github.com/yourusername/yourusername.github.io.git 
 </code></pre></td></tr></table>
 </div>
 </div><p>Here, we assume your repository&rsquo;s name is &ldquo;yourusername.github.io&rdquo;.</p>
@@ -346,7 +356,7 @@ git push
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell">git push -u origin master
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell">git push -u origin main
 </code></pre></td></tr></table>
 </div>
 </div><p>To see what you have done earlier:</p>
