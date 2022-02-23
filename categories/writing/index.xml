@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/categories/writing/</link>
+    <description>Recent content in Writing on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BC and AD, or BCE and CE?</title>
+      <link>https://susanpeng.github.io/post/bc_ad/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/bc_ad/</guid>
+      <description>When writing about historical figures or events, we often need to use BC and AD, or BCE and CE. How can you use them correctly?
+Firstly, both systems count years from the birth of Jesus Christ, following the Gregorian calendar. AD and CE mean before the birth date of Jesus, and BC and BCE mean after the birth date of Jesus.
+BC and AD were used earlier in the year 525 by a Christian monk.</description>
+    </item>
+    
+    <item>
+      <title>The 29 Steps of a Documentation Project</title>
+      <link>https://susanpeng.github.io/post/29_steps_doc_prj/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/29_steps_doc_prj/</guid>
+      <description>Here is a traditionally recommended general sequence of the 29 steps for a documentation project:
+ Discuss the need for the document with your client. Determine the purpose and objectives of the document. Talk to intended users of the documents. Profile the users’ information needs. Prepare an outline of the planned contents of the documents Design the layout of the document. Plan the online version of the document. Prepare style guidelines or a style sheet.</description>
+    </item>
+    
+    <item>
+      <title>As a Software User, How Do You Define Great Documentation?</title>
+      <link>https://susanpeng.github.io/post/great_documentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/great_documentation/</guid>
+      <description>Great documentation should include contextual content that clarifies why and when users might use a feature or workflow. It should tell the software version, the working or installation environment (Windows, Mac, Linux, the version of the operating system), etc. It should keep the readers on the same page at the very beginning.
+Great documentation should be clear and concise and divide information into conceptional, instruction, and reference parts. For the instructional documentation, it is important to organize the content task-centered, following the work procedure.</description>
+    </item>
+    
+  </channel>
+</rss>

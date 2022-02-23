@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on Even - A super concise theme for Hugoaaa</title>
+    <link>https://susanpeng.github.io/categories/skills/</link>
+    <description>Recent content in Skills on Even - A super concise theme for Hugoaaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://susanpeng.github.io/categories/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy Node.js to Heroku</title>
+      <link>https://susanpeng.github.io/post/heroku-how-to/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/heroku-how-to/</guid>
+      <description>I used the folder &amp;ldquo;Desktop/restful&amp;rdquo; as my REST API folder.
+First, create a free Heroku account.
+Then, create a new app &amp;ldquo;morning67890&amp;rdquo; on Heroku.
+Download the Heroku Command Line Interface(CLI)
+1  $ brew install heroku/brew/heroku   I copyed all files of my RESTAPI from my old RESTAPI folder to the folder &amp;ldquo;Desktop/restful&amp;rdquo;.
+Under &amp;ldquo;Desktop/restful&amp;rdquo; folder:
+1  $ heroku login   Check node version:
+1  $ node --version   The noder version shoulde be higher than 10.</description>
+    </item>
+    
+    <item>
+      <title>Experience with Git and Docs-as-code</title>
+      <link>https://susanpeng.github.io/post/experience_with_git/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/experience_with_git/</guid>
+      <description>Git I’ve about three years of experience using Git and its command line. With ten+ years of experience using Unix and Linux shell scripts, I don’t have any problem using Git and its command-line. In contrast, they allow me to work more efficiently. I use Git to store my projects, host my websites, and collaborate with others.
+Docs as code Docs as Code refers to the concept that technical writers write docs with the same tool-chain as developers, using issue trackers, version control, plain text markup, code review, and automated tests, integrating the documentation process with the development workflow.</description>
+    </item>
+    
+    <item>
+      <title>Build a Static Site with Hugo on GitHub</title>
+      <link>https://susanpeng.github.io/post/hugo-how-to/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/hugo-how-to/</guid>
+      <description>I set up my first Hugo-generated website on GitHub through the following steps. I wrote this file to help whose familiar with GitHub and command line and want to build their static website using Hugo by following simple command lines without detailed explanations.
+I&amp;rsquo;m using a Mac mini m1.
+Instll Hugo
+If you have Homebrew installed on your Mac, just run:
+1  brew install hugo   The Hugo will be installed on the Mac.</description>
+    </item>
+    
+    <item>
+      <title>Get Started with GitHub</title>
+      <link>https://susanpeng.github.io/post/git-how-to/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://susanpeng.github.io/post/git-how-to/</guid>
+      <description>Install git on the local computer
+Check if git has already been installed on my Mac:
+1 2  git --version git version 2.30.1 (Apple Git-130)   I got &amp;ldquo;git version 2.30.1 (Apple Git-130)&amp;quot;; that means I have already got git installed on my Mac.
+If you can see the version information, you need to download and install git on your computer.
+Create a free GitHub account
+Go to GitHub website and sign up to get a free GitHub account.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -163,6 +163,13 @@
   </url>
   
   <url>
+    <loc>https://susanpeng.github.io/categories/common/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://susanpeng.github.io/post/heroku-how-to/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,6 +219,13 @@
   </url>
   
   <url>
+    <loc>https://susanpeng.github.io/categories/skills/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://susanpeng.github.io/post/ws_hugo_github/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -240,14 +254,14 @@
   </url>
   
   <url>
-    <loc>https://susanpeng.github.io/tags/writingsample/</loc>
+    <loc>https://susanpeng.github.io/categories/writing/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://susanpeng.github.io/categories/writingstyle/</loc>
+    <loc>https://susanpeng.github.io/tags/writingsample/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
